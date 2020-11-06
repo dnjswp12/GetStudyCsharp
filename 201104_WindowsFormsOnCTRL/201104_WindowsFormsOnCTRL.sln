@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "201104_WindowsFormsOnCTRL", "201104_WindowsFormsOnCTRL\201104_WindowsFormsOnCTRL.csproj", "{F2C3981C-9EBF-42B0-914F-7C813526D230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2C3981C-9EBF-42B0-914F-7C813526D230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C3981C-9EBF-42B0-914F-7C813526D230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C3981C-9EBF-42B0-914F-7C813526D230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C3981C-9EBF-42B0-914F-7C813526D230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B33AFF4B-EA3A-4713-AF0A-A28A21D78673}
+	EndGlobalSection
+EndGlobal
